@@ -70,8 +70,70 @@ namespace Sistema_do_HotelA3
             }
 
         }
+        public bool AtualizarReserva(int id, string novoNome, string novoEmail, DateTime novaDataReserva, string novoPagamento)
+        {
+            try
+            {
+                MySqlConnection ConectaDB = new MySqlConnection(ConexaoDB.conexaoDB);
+                ConectaDB.Open();
 
-       
+                string updateQuery = $"UPDATE reservas SET nome = '{novoNome}', email = '{novoEmail}', data_reserva = '{novaDataReserva.ToString("yyyy-MM-dd HH:mm:ss")}', pagamento = '{novoPagamento}' WHERE id = {id}";
+
+                MySqlCommand comandoSql = new MySqlCommand(updateQuery, ConectaDB);
+                int linhasAfetadas = comandoSql.ExecuteNonQuery();
+
+                ConectaDB.Close();
+
+                if (linhasAfetadas > 0)
+                {
+                    MessageBox.Show("Reserva atualizada com sucesso.");
+                    return true;
+                }
+                else
+                {
+                    MessageBox.Show("Nenhuma reserva encontrada para atualização.");
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erro ao atualizar reserva: {ex.Message}");
+                return false;
+            }
+        }
+        public bool ExcluirReserva(int id)
+        {
+            try
+            {
+                MySqlConnection ConectaDB = new MySqlConnection(ConexaoDB.conexaoDB);
+                ConectaDB.Open();
+
+                string deleteQuery = $"DELETE FROM reservas WHERE id = {id}";
+
+                MySqlCommand comandoSql = new MySqlCommand(deleteQuery, ConectaDB);
+                int linhasAfetadas = comandoSql.ExecuteNonQuery();
+
+                ConectaDB.Close();
+
+                if (linhasAfetadas > 0)
+                {
+                    MessageBox.Show("Reserva excluída com sucesso.");
+                    return true;
+                }
+                else
+                {
+                    MessageBox.Show("Nenhuma reserva encontrada para exclusão.");
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Erro ao excluir reserva: {ex.Message}");
+                return false;
+            }
+        }
     }
-}
+
+    }
+
 

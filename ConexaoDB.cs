@@ -9,7 +9,7 @@ namespace Sistema_do_HotelA3
     static class ConexaoDB
     {
         private const string servidor = "localhost";
-        private const string bancoDados = "dbhotel";
+        private const string bancoDados = "hoteldb";
         private const string usuario = "root";
         private const string senha = "Senha123@";
 

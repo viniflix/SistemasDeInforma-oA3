@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\",
+  "WorkspaceRootPath": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|c:\\users\\vinic\\onedrive\\documents\\github\\sistemasdeinforma-oa3\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:reservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|c:\\users\\vinic\\onedrive\\documents\\github\\sistemasdeinforma-oa3\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|c:\\users\\mathe\\documents\\github\\sistemasdeinforma-oa3\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|c:\\users\\mathe\\documents\\github\\sistemasdeinforma-oa3\\listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{856F517A-167F-42B5-A7D5-8A084B9FC0D0}|Sistema do HotelA3.csproj|solutionrelative:listarreservas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ConexaoDB.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ConexaoDB.cs",
+              "RelativeDocumentMoniker": "ConexaoDB.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ConexaoDB.cs",
+              "RelativeToolTip": "ConexaoDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:09:15.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\Home.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\Home.cs [Design]",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\Home.cs [Design]",
               "RelativeToolTip": "Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T18:15:00.462Z",
@@ -46,37 +91,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Reservas.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\Reservas.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\Reservas.cs",
               "RelativeDocumentMoniker": "Reservas.cs",
-              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\Reservas.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\Reservas.cs",
               "RelativeToolTip": "Reservas.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAwEkAAAAHAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAQwGQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T16:34:34.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ListarReservas.cs",
-              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
               "RelativeDocumentMoniker": "ListarReservas.cs",
-              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
               "RelativeToolTip": "ListarReservas.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAcAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAACkAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T15:55:51.176Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ListarReservas.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs",
               "RelativeDocumentMoniker": "ListarReservas.cs",
-              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs [Design]",
+              "ToolTip": "C:\\Users\\mathe\\Documents\\GitHub\\SistemasDeInforma-oA3\\ListarReservas.cs [Design]",
               "RelativeToolTip": "ListarReservas.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-20T14:35:33.574Z",
